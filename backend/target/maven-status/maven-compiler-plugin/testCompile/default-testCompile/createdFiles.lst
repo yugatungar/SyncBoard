@@ -1,0 +1,12 @@
+com\syncboard\backend\controller\HealthControllerTest.class
+com\syncboard\backend\service\TaskEventPublisherTest$CapturingBroadcaster.class
+com\syncboard\backend\controller\WorkspaceControllerTest.class
+com\syncboard\backend\controller\WorkspaceMemberControllerTest.class
+com\syncboard\backend\controller\RateLimitTest.class
+com\syncboard\backend\service\RedisPublisherSubscriberTest$CapturingStompBroadcaster.class
+com\syncboard\backend\controller\TaskControllerTest.class
+com\syncboard\backend\config\WebSocketConfigTest.class
+com\syncboard\backend\controller\AuthControllerTest.class
+com\syncboard\backend\service\TaskEventPublisherTest.class
+com\syncboard\backend\SyncboardApplicationTests.class
+com\syncboard\backend\service\RedisPublisherSubscriberTest.class
